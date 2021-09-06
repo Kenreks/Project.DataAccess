@@ -9,7 +9,7 @@ namespace Project.Entities
         public string ProductName { get; set; }
         public string QauntityPerUnit { get; set; }
         public short UnitsInStock { get; set; }
-        public int UnitPrice { get; set; }
+        public decimal UnitPrice { get; set; }
 
     }
 }
