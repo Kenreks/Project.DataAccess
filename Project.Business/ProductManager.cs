@@ -2,7 +2,7 @@
 
 namespace Project.Business
 {
-    public class ProductManager
+    public class ProductManager:IProduc
     {
 
     }
